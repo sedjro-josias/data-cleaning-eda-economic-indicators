@@ -32,7 +32,7 @@ The dataset used contains economic and social indicators (example sources: World
 7. Summary of key findings
 
 ## Main Insights
-- [À compléter après avoir fait l’analyse : 3–5 points importants que tu as trouvés]
+- To be completed after analysis
 
 ## How to Run
 1. Clone the repository
@@ -41,10 +41,6 @@ The dataset used contains economic and social indicators (example sources: World
 3. Open the notebook in Jupyter or Google Colab
 
 ## Author
-Sedjro Josias Soglonon  
-Applied Economics Graduate | Aspiring Data Scientist
-pandas
-numpy
-matplotlib
-seaborn
-jupyter
+**Sedjro Josias Soglonon**  
+Applied Economics Graduate | Aspiring Data Scientist  
+GitHub: [sedjro-josias](https://github.com/sedjro-josias)
