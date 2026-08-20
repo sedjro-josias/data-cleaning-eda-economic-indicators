@@ -1,4 +1,3 @@
-# data-cleaning-eda-economic-indicators
 # Bilingual Sentiment Analysis (French / English)
 
 ## Project Overview
