@@ -40,3 +40,9 @@ The project builds on practical experience in text annotation, linguistic evalua
 ## Author
 Sedjro Josias Soglonon  
 Applied Economics Graduate | Aspiring Data Scientist
+pandas
+numpy
+scikit-learn
+nltk
+matplotlib
+jupyter
