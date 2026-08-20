@@ -20,3 +20,23 @@ The project builds on practical experience in text annotation, linguistic evalua
 - matplotlib
 
 ## Project Structure
+## Key Steps
+1. Collection / preparation of French and English texts
+2. Manual labeling according to sentiment (Positive / Neutral / Negative)
+3. Text preprocessing
+4. Feature extraction (TF-IDF or simple bag-of-words)
+5. Training of a baseline classification model
+6. Performance evaluation and error analysis
+
+## Results
+- [À compléter : accuracy, principales observations sur les erreurs, différences FR/EN si tu en observes]
+
+## How to Run
+1. Clone the repository
+2. Install dependencies:  
+   `pip install -r requirements.txt`
+3. Open and run the notebook
+
+## Author
+Sedjro Josias Soglonon  
+Applied Economics Graduate | Aspiring Data Scientist
